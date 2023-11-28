@@ -4,8 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Youtube Clone</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Youtube</title>
+        <link rel="icon" type="image/x-icon" href="./src/youtube.ico">
+    
+    <link rel="stylesheet" href="./css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
@@ -46,7 +48,7 @@
    <header>
       <nav>
          <div class="logo">
-<img src="./youtubelogo.png" alt="Youtube Logo">
+<img src="./assets/youtubelogo.png" alt="Youtube Logo">
          </div>
          <div class="center-nav">
             <div class="search-bar">
@@ -87,10 +89,10 @@
       <div class="img-container">
 
          <div class="images">
-            <img src="./thumbnail1.webp" alt="thumbnail">
+            <img src="./src/thumbnail1.webp" alt="thumbnail">
 
             <div class="avatar">
-               <img src="./avatar2.jpg" alt="">
+               <img src="./assets/avatar2.jpg" alt="">
             </div>
             <div class="content">
                <h3>Top 10 movies all time</h3>
@@ -103,10 +105,10 @@
             </div>
          </div>
          <div class="images">
-            <img src="./thumbnail1.webp" alt="thumbnail">
+            <img src="./src/thumbnail1.webp" alt="thumbnail">
 
             <div class="avatar">
-               <img src="./avatar2.jpg" alt="">
+               <img src="./assets/avatar2.jpg" alt="">
             </div>
             <div class="content">
                <h3>Top 10 movies all time</h3>
@@ -119,10 +121,10 @@
             </div>
          </div>
          <div class="images">
-            <img src="./thumbnail1.webp" alt="thumbnail">
+            <img src="./src/thumbnail1.webp" alt="thumbnail">
 
             <div class="avatar">
-               <img src="./avatar2.jpg" alt="">
+               <img src="./assets/avatar2.jpg" alt="">
             </div>
             <div class="content">
                <h3>Top 10 movies all time</h3>
@@ -135,10 +137,10 @@
             </div>
          </div>
          <div class="images">
-            <img src="./thumbnail1.webp" alt="thumbnail">
+            <img src="./src/thumbnail1.webp" alt="thumbnail">
 
             <div class="avatar">
-               <img src="./avatar2.jpg" alt="">
+               <img src="./assets/avatar2.jpg" alt="">
             </div>
             <div class="content">
                <h3>Top 10 movies all time</h3>
@@ -151,10 +153,10 @@
             </div>
          </div>
          <div class="images">
-            <img src="./thumbnail1.webp" alt="thumbnail">
+            <img src="./src/thumbnail1.webp" alt="thumbnail">
 
             <div class="avatar">
-               <img src="./avatar2.jpg" alt="">
+               <img src="./assets/avatar2.jpg" alt="">
             </div>
             <div class="content">
                <h3>Top 10 movies all time</h3>
@@ -167,10 +169,10 @@
             </div>
          </div>
          <div class="images">
-            <img src="./thumbnail1.webp" alt="thumbnail">
+            <img src="./src/thumbnail1.webp" alt="thumbnail">
 
             <div class="avatar">
-               <img src="./avatar2.jpg" alt="">
+               <img src="./assets/avatar2.jpg" alt="">
             </div>
             <div class="content">
                <h3>Top 10 movies all time</h3>
@@ -183,10 +185,10 @@
             </div>
          </div>
          <div class="images">
-            <img src="./thumbnail1.webp" alt="thumbnail">
+            <img src="./src/thumbnail1.webp" alt="thumbnail">
 
             <div class="avatar">
-               <img src="./avatar2.jpg" alt="">
+               <img src="./assets/avatar2.jpg" alt="">
             </div>
             <div class="content">
                <h3>Top 10 movies all time</h3>
@@ -199,10 +201,27 @@
             </div>
          </div>
          <div class="images">
-            <img src="./thumbnail1.webp" alt="thumbnail">
+            <img src="./src/thumbnail1.webp" alt="thumbnail">
 
             <div class="avatar">
-               <img src="./avatar2.jpg" alt="">
+               <img src="./assets/avatar2.jpg" alt="">
+            </div>
+            <div class="content">
+               <h3>Top 10 movies all time</h3>
+               <p class="channel-name">Review Channel</p>
+               <div class="status-view">
+                  <p>1 million views.</p>
+                  <p>1 day ago</p>
+               </div>
+               
+            </div>
+         </div>
+
+         <div class="images">
+            <img src="./src/thumbnail1.webp" alt="thumbnail">
+
+            <div class="avatar">
+               <img src="./assets/avatar2.jpg" alt="">
             </div>
             <div class="content">
                <h3>Top 10 movies all time</h3>

@@ -6,8 +6,12 @@
   margin: 0;
   font-family: 'Roboto', sans-serif;
 }
-
-
+::-webkit-scrollbar{
+  display: none;
+}
+nav{
+    background-color: white;
+}
   nav{
     display: flex;
     justify-content: space-between;
@@ -17,7 +21,6 @@
     top: 0;
     left: 60PX;
     width: 100%;
-    background-color: white;
     z-index: 200;
   }
 
